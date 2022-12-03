@@ -1,0 +1,16 @@
+db.sqlite3
+*__pycache__
+credentials.py
+*node_modules
+*txt
+.bin
+@ampproject
+@babel
+@discoverjs
+@emotion
+@jridgewell
+@material-ui
+@remix-run
+@types
+@webassemblyjs
+@webpack-cli
